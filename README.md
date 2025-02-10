@@ -1,5 +1,5 @@
 # Centerpoint
-Tutuoial
+Tutuoial only
 👋 Hi, I’m @Ern1est1sr
 👀 I’m interested in the DevOps and the technology advancement going on around the world
 🌱 I’m currently learning to build code and AI/ML
